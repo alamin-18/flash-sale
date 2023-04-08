@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "6430eda824aa8a82b4220bc4",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/bd/qa85qn900bksfs/gallery/bd-qled-qn900b-qa85qn900bksfs-thumb-533632262?$480_480_PNG$",
+    "catagory": "smart tv",
+    "flash": "sale",
+    "price": "2360",
+    "salePrice": "2060",
+    "rating": "5.0",
+    "description": "Samsung 85Q70A 85 Inch QLED 4K UHD Smart LED Television.\r\n"
+  },
+  {
+    "_id": "6430eda815211140b4c8e2ab",
+    "image": "https://images.dwell.com/photos/7039023947501715456/7048774041064329216/large.png",
+    "catagory": "Furniture",
+    "flash": "New",
+    "price": "80",
+    "salePrice": "56",
+    "rating": "5.0",
+    "description": "Sanung 85Q70A 85 Inch QLED 4K UHD Smart LED Television\r\n"
+  },
+  {
+    "_id": "6430eda8133492469ab91b9f",
+    "image": "https://cottonbureau.imgix.net/products/originals/21145_P0KG.png?auto=compress%2Cformat&fit=max&ixlib=php-3.3.1&w=1200",
+    "catagory": "Headphone",
+    "flash": "Sale",
+    "price": "44",
+    "salePrice": "36",
+    "rating": "5.0",
+    "description": "Fabitech Sonata MH90 Multi-Platform RGB Gaming Headset.\r\n"
+  },
+  {
+    "_id": "6430eda866d96590fcc99508",
+    "image": "https://www.asus.com/media/global/products/oshtgvg9mpixhwzq/P_setting_xxx_0_90_end_500.png",
+    "catagory": "Gaming",
+    "flash": "New",
+    "price": "90",
+    "salePrice": "70",
+    "rating": "5.0",
+    "description": "Lomitech F310 - Wifi & USB RGB Dual Gamepad - for smooth experience.\r\n"
+  },
+  {
+    "_id": "6430eda8d1d05c9bb7d806c1",
+    "image": "https://packex.com/wp-content/uploads/2022/02/kosmetik_header.png",
+    "catagory": "Cosmetics",
+    "flash": "Sale",
+    "price": "120",
+    "salePrice": "80",
+    "rating": "5.0",
+    "description": "Lomitech F310 - Wifi & USB RGB Dual Gamepad - for smooth experience.\r\n"
+  }
+]
