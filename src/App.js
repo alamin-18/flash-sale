@@ -4,7 +4,7 @@ import Home from './Pages/Home/Home';
 
 function App() {
   return (
-    <div >
+    <div className='py-28 px-14'>
       <Home></Home>
     </div>
   );
